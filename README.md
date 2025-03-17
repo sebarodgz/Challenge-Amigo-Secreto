@@ -28,5 +28,3 @@ JavaScript (puro, sin frameworks)
 ¡Si tienes ideas para mejorar este proyecto, siéntete libre de contribuir! Forkea el repositorio y envía un pull request.
 
 📧 Para dudas o sugerencias, contáctame.
-
-🔗 ¡Disfruta tu sorteo de Amigo Secreto! 🎁🎉
