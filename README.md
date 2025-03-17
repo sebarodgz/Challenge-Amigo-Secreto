@@ -24,7 +24,7 @@ JavaScript (puro, sin frameworks)
 ⚠️ No puedes sortear un amigo sin antes agregar nombres.  
 ⚠️ La página no almacena los nombres después de cerrar el navegador.  
 
-# 🏆 Contribuciones
+## 🏆 Contribuciones
 ¡Si tienes ideas para mejorar este proyecto, siéntete libre de contribuir! Forkea el repositorio y envía un pull request.
 
 📧 Para dudas o sugerencias, contáctame.
